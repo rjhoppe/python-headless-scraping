@@ -1,0 +1,2 @@
+docker build -t scraping-selenium .
+docker run scraping-selenium
